@@ -1,0 +1,14 @@
+IOS9版本以上的设备，可以使用Surge软件做为Shadowsocks的客户端。但是商店里售价高达99美元。
+因此可以从淘宝购买一个临时ID，此ID已经购买了surge软件。
+用此ID登录商店，即可从“已购项目”中下载安装Surge软件。
+
+
+1、购买AppStore的帐号
+淘宝搜索店铺  钟岑AppStore
+或者搜索 IOS surge，一般卖5元，可以咨询下卖家。
+卖家的QQ：477967164
+
+
+2、将shadowsocks帐号信息填入配置文件
+教程地址：http://www.jianshu.com/p/b4746a29d3fc
+或者自己搜索下Surge教程
